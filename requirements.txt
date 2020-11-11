@@ -1,5 +1,5 @@
-Django
-Markdown
-requests
-martor
-gunicorn
+Django==2.2.13
+Markdown==3.3.3
+requests==2.18.4
+martor==1.5.7
+gunicorn==18.0
